@@ -1,4 +1,4 @@
-# Pwned:1
+# [Pwned:1](https://www.vulnhub.com/entry/pwned-1,507/)
 
 * Step 1: Start with scanning the machine with nmap. 
   ```bash
@@ -68,6 +68,3 @@
 
 **So, this completes the box. Hope you all enjoyed it.**<br>
 **Thank You for reading.**
-  
-  
-  
